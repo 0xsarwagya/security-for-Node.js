@@ -1,3 +1,7 @@
+Originally Published on - [Esportzvio Blog](https://blog.esportzvio.com/blog/essesntials-node-js-security/)
+
+> We Are Planning To Make A Project Out Of It To Implemet All These Pactices In A Real-World NodeJS Express Project
+
 # Essential Cybersecurity Practices for Node.js
 
 Imagine yourself sitting in the cockpit of a starship, navigating through vast, unexplored expanses of the digital cosmos. Your Node.js application is the command center from which you operate the life-supporting machinery and store sensitive data. The galactic captain needs to be prepared for anything that might come their way in the form of space pirates or other cosmic anomalies; similarly, a developer needs to keep their application secure from any kind of cyber threat.
